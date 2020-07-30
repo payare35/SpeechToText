@@ -1,4 +1,4 @@
 # SpeechToText App
 
-Just by using plugins like you can add this feature of 'speech to text' in your applications.
+Just by using plugin 'speech_to_text' you can add this feature of 'Speech to Text' in your Flutter applications.
 
